@@ -37,3 +37,6 @@ Welcome to my page! I transitioned from someone who worked many different types 
 ![github-user-contribution](https://user-images.githubusercontent.com/93681006/173535944-44b94706-6423-42a4-a6c6-72f832786af7.svg)
 
 
+## You can link with me here:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/kristen-reid-a4b499202/)
+
