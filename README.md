@@ -38,5 +38,5 @@ Welcome to my page! I transitioned from someone who worked many different types 
 
 
 ## You can link with me here:
-![LinkedIn]([https://img.shields.io](https://www.linkedin.com/in/kristen-reid-a4b499202/)/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/kristen-reid-a4b499202/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
