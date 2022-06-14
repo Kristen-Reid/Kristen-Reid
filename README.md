@@ -1,4 +1,4 @@
-![The Github of Kristen Reid (Facebook Post) (1)](https://user-images.githubusercontent.com/93681006/173494968-47ba4de6-d1c8-4b9e-867a-5dcc29eb718a.gif)
+<img src="\\wsl.localhost\Ubuntu\home\kristen\The Github of Kristen Reid.gif" width="250" height="250"/>
 
 
 
