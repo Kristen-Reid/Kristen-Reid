@@ -38,5 +38,5 @@ Welcome to my page! I transitioned from someone who worked many different types 
 
 
 ## You can link with me here:
-<!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
-<img alt="LinkedIn" src="[https://user-images.githubusercontent.com/93681149/167308732-afeeb5f2-d9a1-47ab-b8d9-82cd44b00b7e.svg](https://www.linkedin.com/in/kristen-reid-a4b499202/)" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+![LinkedIn]<a href="https://www.linkedin.com/in/kristen-reid-a4b499202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
