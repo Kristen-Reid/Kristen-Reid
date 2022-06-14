@@ -1,4 +1,5 @@
 ### Hi there 👋
+![The Github of Kristen Reid](https://user-images.githubusercontent.com/93681006/173487710-1aea8cea-df5c-45ae-acd9-a35b51ad099e.png)
 
 <!--
 **Kristen-Reid/Kristen-Reid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
