@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/93681006/173496820-0caa47e3-7480-4648-ad6a-dd15643569e3.mp4
+![The Github of Kristen Reid (Gift Certificate) (Animated Logo)](https://user-images.githubusercontent.com/93681006/173496936-4bf8070b-8149-48de-8ea5-62aa555d9a2e.gif)
 
 
 
