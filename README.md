@@ -1,4 +1,4 @@
-<img src="\\wsl.localhost\Ubuntu\home\kristen\The Github of Kristen Reid.gif" width="250" height="250"/>
+<img src="\kristen\The Github of Kristen Reid.gif" width="250" height="250"/>
 
 
 
