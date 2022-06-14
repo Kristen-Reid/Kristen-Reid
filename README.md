@@ -1,4 +1,4 @@
-# Hi there 👋🏾, I'm Kristen 😁
+## Hi there 👋🏾, I'm Kristen 😁
 
 ![Kristen Reid Github](https://user-images.githubusercontent.com/93681006/173522006-4cc4c205-c48c-4808-9014-73fc9e6e54b5.gif)
 
