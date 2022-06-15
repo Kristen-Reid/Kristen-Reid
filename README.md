@@ -39,6 +39,6 @@ Welcome to my page! I transitioned from someone who worked many different types 
 
 ## Social Connections:
 
-<a href="https://www.kristenreid.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=logoColor=#FF7139"/></a>
+<a href="https://www.kristenreid.dev/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=logoColor=#FF7139" height="50px" /></a>
 <a href="https://www.linkedin.com/in/kristen-reid-a4b499202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://angel.co/u/kristen-reid-5"><img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black"/></a>
