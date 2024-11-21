@@ -34,7 +34,7 @@ Welcome to my page! I transitioned from someone who worked many different types 
 
 
 
-![github-user-contribution](https://user-images.githubusercontent.com/93681006/173535944-44b94706-6423-42a4-a6c6-72f832786af7.svg)
+
 
 
 ## Social Connections:
