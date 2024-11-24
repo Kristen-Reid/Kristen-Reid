@@ -1,6 +1,6 @@
 ![Kristen Reid Github](https://user-images.githubusercontent.com/93681006/173522006-4cc4c205-c48c-4808-9014-73fc9e6e54b5.gif)
 
-## Hi there 👋🏾, I'm Kristen 😁
+## Hi there 👋🏾, I'm Kristen 😸
 Welcome to my page! I transitioned from someone who worked many different types of jobs (worked customer service for 10+ years, worked in hospitality for 5+ years, and worked as a logistics broker to name a few titles) into software engineering after doing a ton of research and ultimately falling in love with coding while researching and working through free course work. Thanks to App Academy (where I recently graduated 🎉) I was able to make that dream of pursuing this new career path a reality. Really enjoy seeing projects I work on come to life from start to finish as well as enjoy working with a team of engineers in building applications, learning from each other, and bouncing ideas off of one another.
 
 
